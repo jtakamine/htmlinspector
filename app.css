@@ -1,0 +1,27 @@
+div.source {
+	word-wrap: break-word;
+}
+
+div.highlight {
+	font-weight: bolder;
+	margin: 1em 0 1em 1em;
+	padding: 0 0 3px 3px;
+	box-shadow: -3px 3px 2px #AAA;
+}
+
+input.url {
+	margin: 1em 0 0 0;
+	width:100%;
+}
+
+input.submit {
+	margin: 1em 0 1em 0;
+	width:100%;
+}
+
+h3 img.spinner {
+	display: none;
+	width: 3em;
+	height: 3em;
+	margin: -2em 0 -2em -.5em;
+}
